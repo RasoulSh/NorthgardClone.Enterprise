@@ -1,0 +1,16 @@
+{
+    "name": "Northgard.Enterprise",
+    "rootNamespace": "Northgard.Enterprise",
+    "references": [
+        "GUID:adae8d963d7ec0c498f480ec15be39dd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

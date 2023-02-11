@@ -1,0 +1,13 @@
+{
+  "name": "com.northgard.enterprise",
+  "version": "1.0.0",
+  "displayName": "Northgard.Enterprise",
+  "description": "Northgard Enterprise",
+  "unity": "2021.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Rasoul Shahhoseini"
+  },
+  "type": "library",
+  "hideInEditor": false
+}
