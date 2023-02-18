@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Northgard.Entities.ValueObjects
+namespace Northgard.Enterprise.ValueObjects
 {
     [Serializable]
     public class IdPointPair

@@ -5,11 +5,10 @@ using Newtonsoft.Json;
 namespace Northgard.Enterprise.ValueObjects
 {
     [Serializable]
-    public class GameResourceState
+    public class CharacterConditionState
     {
         public int count;
         public int bonusCount;
-        public int penaltyCount;
-        [JsonIgnore] [XmlIgnore] public int TotalCount => count + bonusCount - penaltyCount;
+        [JsonIgnore] [XmlIgnore] public int TotalCount => count + bonusCount;
     }
 }
